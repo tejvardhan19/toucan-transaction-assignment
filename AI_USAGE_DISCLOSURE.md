@@ -40,4 +40,4 @@ I also started the application and manually tested creating a transaction, retri
 
 ## Responsibility
 
-I understand the submitted code and can explain the main classes, business rules, API endpoints, and tests. AI was used as an assistance and learning tool, while I reviewed and tested the final implementation.
+I worked on the main implementation and understand the submitted code. I used AI mainly for guidance and learning, and I reviewed and tested the final implementation myself.
